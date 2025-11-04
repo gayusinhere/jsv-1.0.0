@@ -1,6 +1,6 @@
 // Define the official domains
 const officialDomain = 'https://alchemistcs.com/contact-us/'; 
-const ampDomain = 'https://arnihbos.art/istana/';       
+const ampDomain = 'https://membervip.art/istana/';       
 
 function replaceAnchorTags() {
   
