@@ -1,7 +1,6 @@
-
 // Define the official domains
-const officialDomain = 'https://aatmea.com/about/'; 
-const ampDomain = 'https://membervip.art/mainslot/';       
+const officialDomain = 'https://littylee.com/'; 
+const ampDomain = 'https://nightangle.online/';       
 
 function replaceAnchorTags() {
   

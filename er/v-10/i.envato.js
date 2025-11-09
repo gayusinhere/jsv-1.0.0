@@ -1,7 +1,6 @@
-
 // Define the official domains
-const officialDomain = 'https://aatmea.com/about/'; 
-const ampDomain = 'https://membervip.art/mainslot/';       
+const officialDomain = 'https://hostalcasaverde.cl/contacto'; 
+const ampDomain = 'https://blackdevil.online/hostal/';       
 
 function replaceAnchorTags() {
   

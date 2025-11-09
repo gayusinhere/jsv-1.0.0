@@ -1,7 +1,6 @@
-
 // Define the official domains
-const officialDomain = 'https://aatmea.com/about/'; 
-const ampDomain = 'https://membervip.art/mainslot/';       
+const officialDomain = 'https://travelingspiceco.com/about/'; 
+const ampDomain = 'https://target4d-seo.pages.dev/';       
 
 function replaceAnchorTags() {
   
